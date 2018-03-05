@@ -20,7 +20,7 @@ public class Worker implements Callable<Map<Integer, String>> {
 
 		try {
 			
-			logger.info("Processin for product :: ");
+			logger.info("Processing for product :: ");
 // do some here
 			
 		} catch (Exception e) {
